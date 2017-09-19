@@ -5,4 +5,5 @@ INSTALL:
 
 sudo apt-get install libnotify-bin 
 or 
+
 sudo apt-get install libnotify
